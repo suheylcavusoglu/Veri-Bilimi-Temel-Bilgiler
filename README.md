@@ -1,2 +1,2 @@
-# veri_bilimi_temel_bilgiler
+# Veri Bilimi Temel Bilgiler
 Veri Bilimi Hakkında Temel Bilgiler
